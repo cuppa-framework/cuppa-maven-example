@@ -7,7 +7,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <cuppa.version>0.9.0-SNAPSHOT</cuppa.version>
+        <cuppa.version>1.0.0</cuppa.version>
     </properties>
 
     <dependencies>
