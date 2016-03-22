@@ -1,4 +1,4 @@
-# [Cuppa](http://cuppa.forgerock.org) Example Using Maven
+# [Cuppa](http://cuppa.forgerock.org) Example Using Maven [![Build Status](https://travis-ci.org/cuppa-framework/cuppa-maven-example.svg?branch=master)](https://travis-ci.org/cuppa-framework/cuppa-maven-example)
 
 This repository is an example of how to use Cuppa with Maven.
 
